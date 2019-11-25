@@ -1,8 +1,8 @@
 {
-  "name": "eth-marketplace",
+  "name": "socal_blockchain",
   "version": "0.1.0",
-  "description": "An Ethereum Marketplace",
-  "author": "gregory@dappuniversity.com",
+  "description": "A social network site built with etherium smart contracts",
+  "author": "Ilyas",
   "dependencies": {
     "babel-polyfill": "6.26.0",
     "babel-preset-env": "1.7.0",
